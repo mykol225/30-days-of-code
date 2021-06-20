@@ -88,3 +88,5 @@ function down(j) {
 
 
 // how to spin each starting from center (beginning of array) 
+// I think I need to make an array of rects not coordinates
+// then access each one, one at a time, run rotate
