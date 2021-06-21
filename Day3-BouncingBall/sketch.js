@@ -15,9 +15,9 @@ function setup() {
 }
 
 function draw() {
-  background(15, 15, 40);
+  background(15, 15, 40, 50);
   fill(255)
-  strokeWeight(2)
+  strokeWeight(0)
   ellipse(x, y, size, size)
   
   x = x + xSpeed
