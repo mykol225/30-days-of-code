@@ -9,3 +9,5 @@ Challenge to complete one code project each day for a month.
 <img width="200" alt="Screen Shot 2021-06-20 at 1 56 07 PM" src="https://user-images.githubusercontent.com/4127229/122686933-052ae780-d1d1-11eb-8997-bca4af53c08f.png">
 <img width="200" alt="Screen Shot 2021-06-20 at 1 53 44 PM" src="https://user-images.githubusercontent.com/4127229/122686934-052ae780-d1d1-11eb-8ca4-61d0930c425d.png">
 <img width="200" alt="Screen Shot 2021-06-20 at 1 52 42 PM" src="https://user-images.githubusercontent.com/4127229/122686935-052ae780-d1d1-11eb-82c2-a03ddaac42b8.png">
+<img width="400" alt="Day8-Disco" src="https://user-images.githubusercontent.com/4127229/122770666-ea08b800-d262-11eb-9f35-d9f935a0ffbf.png">
+
